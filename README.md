@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Job Board
 
-## Getting Started
+## Overview
 
-First, run the development server:
+AI Job Board is a modern job search platform built using Next.js, TypeScript, and Tailwind CSS. It allows users to browse jobs, search opportunities, filter listings, and bookmark jobs through a clean and responsive interface.
+
+## Features
+
+- Responsive UI
+- Dark/Light Theme
+- Search Jobs
+- Filter by Location
+- Filter by Job Type
+- Bookmark Jobs
+- Job Details Page
+- Responsive Design
+
+## Tech Stack
+
+- Next.js 16
+- React
+- TypeScript
+- Tailwind CSS
+- Lucide React
+- Vercel
+
+## Installation
 
 ```bash
+git clone https://github.com/tharunnelikondi97269-bot/ai-job-board.git
+cd ai-job-board
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Live Demo
 
-## Learn More
+https://ai-job-board-delta.vercel.app/
 
-To learn more about Next.js, take a look at the following resources:
+## GitHub Repository
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://github.com/tharunnelikondi97269-bot/ai-job-board
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Folder Structure
 
-## Deploy on Vercel
+```
+app/
+components/
+data/
+hooks/
+lib/
+public/
+types/
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Future Enhancements
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- User Authentication
+- AI Resume Matching
+- MongoDB Integration
+- Resume Upload
+- Recruiter Dashboard
+- Job Posting Portal
+- Email Notifications
+
+## Author
+
+Tharun Nellikondi
