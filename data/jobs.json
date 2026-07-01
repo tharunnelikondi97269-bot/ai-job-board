@@ -1,0 +1,1355 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Frontend Engineer",
+    "company": "Google",
+    "companyLogo": "https://ui-avatars.com/api/?name=Google&background=random&color=fff&size=128&bold=true",
+    "location": "Mountain View, CA",
+    "type": "Full-time",
+    "salaryMin": 80000,
+    "salaryMax": 120000,
+    "currency": "USD",
+    "postedDate": "2026-07-01",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "description": "Join Google as a Senior Frontend Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with React and TypeScript",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/google/1"
+  },
+  {
+    "id": "2",
+    "title": "Full Stack Developer",
+    "company": "Microsoft",
+    "companyLogo": "https://ui-avatars.com/api/?name=Microsoft&background=random&color=fff&size=128&bold=true",
+    "location": "Redmond, WA",
+    "type": "Part-time",
+    "salaryMin": 95000,
+    "salaryMax": 145000,
+    "currency": "USD",
+    "postedDate": "2026-06-29",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "description": "Join Microsoft as a Full Stack Developer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Python and Django",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/microsoft/2"
+  },
+  {
+    "id": "3",
+    "title": "Backend Engineer",
+    "company": "Apple",
+    "companyLogo": "https://ui-avatars.com/api/?name=Apple&background=random&color=fff&size=128&bold=true",
+    "location": "Cupertino, CA",
+    "type": "Contract",
+    "salaryMin": 110000,
+    "salaryMax": 170000,
+    "currency": "USD",
+    "postedDate": "2026-06-27",
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "Docker",
+      "AWS"
+    ],
+    "description": "Join Apple as a Backend Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Go and Kubernetes",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/apple/3"
+  },
+  {
+    "id": "4",
+    "title": "DevOps Engineer",
+    "company": "Amazon",
+    "companyLogo": "https://ui-avatars.com/api/?name=Amazon&background=random&color=fff&size=128&bold=true",
+    "location": "Remote",
+    "type": "Remote",
+    "salaryMin": 125000,
+    "salaryMax": 195000,
+    "currency": "USD",
+    "postedDate": "2026-06-25",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka"
+    ],
+    "description": "Join Amazon as a DevOps Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Java and Spring Boot",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/amazon/4"
+  },
+  {
+    "id": "5",
+    "title": "Product Designer",
+    "company": "Meta",
+    "companyLogo": "https://ui-avatars.com/api/?name=Meta&background=random&color=fff&size=128&bold=true",
+    "location": "Menlo Park, CA",
+    "type": "Internship",
+    "salaryMin": 140000,
+    "salaryMax": 220000,
+    "currency": "USD",
+    "postedDate": "2026-06-23",
+    "skills": [
+      "Swift",
+      "SwiftUI",
+      "iOS",
+      "Core Data"
+    ],
+    "description": "Join Meta as a Product Designer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Swift and SwiftUI",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/meta/5"
+  },
+  {
+    "id": "6",
+    "title": "UX Researcher",
+    "company": "Netflix",
+    "companyLogo": "https://ui-avatars.com/api/?name=Netflix&background=random&color=fff&size=128&bold=true",
+    "location": "Los Gatos, CA",
+    "type": "Freelance",
+    "salaryMin": 155000,
+    "salaryMax": 195000,
+    "currency": "USD",
+    "postedDate": "2026-06-21",
+    "skills": [
+      "Kotlin",
+      "Jetpack Compose",
+      "Android",
+      "Room"
+    ],
+    "description": "Join Netflix as a UX Researcher. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Kotlin and Jetpack Compose",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/netflix/6"
+  },
+  {
+    "id": "7",
+    "title": "Data Scientist",
+    "company": "Spotify",
+    "companyLogo": "https://ui-avatars.com/api/?name=Spotify&background=random&color=fff&size=128&bold=true",
+    "location": "Stockholm, Sweden",
+    "type": "Full-time",
+    "salaryMin": 170000,
+    "salaryMax": 220000,
+    "currency": "USD",
+    "postedDate": "2026-06-19",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "description": "Join Spotify as a Data Scientist. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Figma and UI Design",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/spotify/7"
+  },
+  {
+    "id": "8",
+    "title": "Machine Learning Engineer",
+    "company": "Stripe",
+    "companyLogo": "https://ui-avatars.com/api/?name=Stripe&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Part-time",
+    "salaryMin": 185000,
+    "salaryMax": 245000,
+    "currency": "USD",
+    "postedDate": "2026-06-17",
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "ML",
+      "Python"
+    ],
+    "description": "Join Stripe as a Machine Learning Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with TensorFlow and PyTorch",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/stripe/8"
+  },
+  {
+    "id": "9",
+    "title": "Mobile Developer (iOS)",
+    "company": "Airbnb",
+    "companyLogo": "https://ui-avatars.com/api/?name=Airbnb&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Contract",
+    "salaryMin": 80000,
+    "salaryMax": 150000,
+    "currency": "USD",
+    "postedDate": "2026-06-15",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "GraphQL"
+    ],
+    "description": "Join Airbnb as a Mobile Developer (iOS). You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Node.js and Express",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/airbnb/9"
+  },
+  {
+    "id": "10",
+    "title": "Mobile Developer (Android)",
+    "company": "Uber",
+    "companyLogo": "https://ui-avatars.com/api/?name=Uber&background=random&color=fff&size=128&bold=true",
+    "location": "Remote",
+    "type": "Remote",
+    "salaryMin": 95000,
+    "salaryMax": 175000,
+    "currency": "USD",
+    "postedDate": "2026-06-13",
+    "skills": [
+      "Rust",
+      "Systems Programming",
+      "WebAssembly",
+      "Performance"
+    ],
+    "description": "Join Uber as a Mobile Developer (Android). You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Rust and Systems Programming",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/uber/10"
+  },
+  {
+    "id": "11",
+    "title": "QA Engineer",
+    "company": "Shopify",
+    "companyLogo": "https://ui-avatars.com/api/?name=Shopify&background=random&color=fff&size=128&bold=true",
+    "location": "Ottawa, Canada",
+    "type": "Internship",
+    "salaryMin": 110000,
+    "salaryMax": 150000,
+    "currency": "USD",
+    "postedDate": "2026-06-11",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "description": "Join Shopify as a QA Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with React and TypeScript",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/shopify/11"
+  },
+  {
+    "id": "12",
+    "title": "Security Engineer",
+    "company": "Slack",
+    "companyLogo": "https://ui-avatars.com/api/?name=Slack&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Freelance",
+    "salaryMin": 125000,
+    "salaryMax": 175000,
+    "currency": "USD",
+    "postedDate": "2026-06-09",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "description": "Join Slack as a Security Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Python and Django",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/slack/12"
+  },
+  {
+    "id": "13",
+    "title": "Technical Program Manager",
+    "company": "Figma",
+    "companyLogo": "https://ui-avatars.com/api/?name=Figma&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "salaryMin": 140000,
+    "salaryMax": 200000,
+    "currency": "USD",
+    "postedDate": "2026-06-07",
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "Docker",
+      "AWS"
+    ],
+    "description": "Join Figma as a Technical Program Manager. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Go and Kubernetes",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/figma/13"
+  },
+  {
+    "id": "14",
+    "title": "Engineering Manager",
+    "company": "Notion",
+    "companyLogo": "https://ui-avatars.com/api/?name=Notion&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Part-time",
+    "salaryMin": 155000,
+    "salaryMax": 225000,
+    "currency": "USD",
+    "postedDate": "2026-06-05",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka"
+    ],
+    "description": "Join Notion as a Engineering Manager. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Java and Spring Boot",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/notion/14"
+  },
+  {
+    "id": "15",
+    "title": "Site Reliability Engineer",
+    "company": "Linear",
+    "companyLogo": "https://ui-avatars.com/api/?name=Linear&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Contract",
+    "salaryMin": 170000,
+    "salaryMax": 250000,
+    "currency": "USD",
+    "postedDate": "2026-06-03",
+    "skills": [
+      "Swift",
+      "SwiftUI",
+      "iOS",
+      "Core Data"
+    ],
+    "description": "Join Linear as a Site Reliability Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Swift and SwiftUI",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/linear/15"
+  },
+  {
+    "id": "16",
+    "title": "Cloud Architect",
+    "company": "Vercel",
+    "companyLogo": "https://ui-avatars.com/api/?name=Vercel&background=random&color=fff&size=128&bold=true",
+    "location": "Remote",
+    "type": "Remote",
+    "salaryMin": 185000,
+    "salaryMax": 225000,
+    "currency": "USD",
+    "postedDate": "2026-06-01",
+    "skills": [
+      "Kotlin",
+      "Jetpack Compose",
+      "Android",
+      "Room"
+    ],
+    "description": "Join Vercel as a Cloud Architect. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Kotlin and Jetpack Compose",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/vercel/16"
+  },
+  {
+    "id": "17",
+    "title": "React Developer",
+    "company": "Datadog",
+    "companyLogo": "https://ui-avatars.com/api/?name=Datadog&background=random&color=fff&size=128&bold=true",
+    "location": "New York, NY",
+    "type": "Internship",
+    "salaryMin": 80000,
+    "salaryMax": 130000,
+    "currency": "USD",
+    "postedDate": "2026-05-30",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "description": "Join Datadog as a React Developer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Figma and UI Design",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/datadog/17"
+  },
+  {
+    "id": "18",
+    "title": "Node.js Developer",
+    "company": "Cloudflare",
+    "companyLogo": "https://ui-avatars.com/api/?name=Cloudflare&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Freelance",
+    "salaryMin": 95000,
+    "salaryMax": 155000,
+    "currency": "USD",
+    "postedDate": "2026-05-28",
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "ML",
+      "Python"
+    ],
+    "description": "Join Cloudflare as a Node.js Developer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with TensorFlow and PyTorch",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/cloudflare/18"
+  },
+  {
+    "id": "19",
+    "title": "Python Developer",
+    "company": "Coinbase",
+    "companyLogo": "https://ui-avatars.com/api/?name=Coinbase&background=random&color=fff&size=128&bold=true",
+    "location": "Remote",
+    "type": "Full-time",
+    "salaryMin": 110000,
+    "salaryMax": 180000,
+    "currency": "USD",
+    "postedDate": "2026-05-26",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "GraphQL"
+    ],
+    "description": "Join Coinbase as a Python Developer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Node.js and Express",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/coinbase/19"
+  },
+  {
+    "id": "20",
+    "title": "Platform Engineer",
+    "company": "Robinhood",
+    "companyLogo": "https://ui-avatars.com/api/?name=Robinhood&background=random&color=fff&size=128&bold=true",
+    "location": "Menlo Park, CA",
+    "type": "Part-time",
+    "salaryMin": 125000,
+    "salaryMax": 205000,
+    "currency": "USD",
+    "postedDate": "2026-05-24",
+    "skills": [
+      "Rust",
+      "Systems Programming",
+      "WebAssembly",
+      "Performance"
+    ],
+    "description": "Join Robinhood as a Platform Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Rust and Systems Programming",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/robinhood/20"
+  },
+  {
+    "id": "21",
+    "title": "Staff Software Engineer",
+    "company": "Square",
+    "companyLogo": "https://ui-avatars.com/api/?name=Square&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Contract",
+    "salaryMin": 140000,
+    "salaryMax": 180000,
+    "currency": "USD",
+    "postedDate": "2026-05-22",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "description": "Join Square as a Staff Software Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with React and TypeScript",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/square/21"
+  },
+  {
+    "id": "22",
+    "title": "Principal Engineer",
+    "company": "Twilio",
+    "companyLogo": "https://ui-avatars.com/api/?name=Twilio&background=random&color=fff&size=128&bold=true",
+    "location": "Remote",
+    "type": "Remote",
+    "salaryMin": 155000,
+    "salaryMax": 205000,
+    "currency": "USD",
+    "postedDate": "2026-05-20",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "description": "Join Twilio as a Principal Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Python and Django",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/twilio/22"
+  },
+  {
+    "id": "23",
+    "title": "Solutions Architect",
+    "company": "Atlassian",
+    "companyLogo": "https://ui-avatars.com/api/?name=Atlassian&background=random&color=fff&size=128&bold=true",
+    "location": "Sydney, Australia",
+    "type": "Internship",
+    "salaryMin": 170000,
+    "salaryMax": 230000,
+    "currency": "USD",
+    "postedDate": "2026-05-18",
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "Docker",
+      "AWS"
+    ],
+    "description": "Join Atlassian as a Solutions Architect. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Go and Kubernetes",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/atlassian/23"
+  },
+  {
+    "id": "24",
+    "title": "Growth Engineer",
+    "company": "Adobe",
+    "companyLogo": "https://ui-avatars.com/api/?name=Adobe&background=random&color=fff&size=128&bold=true",
+    "location": "San Jose, CA",
+    "type": "Freelance",
+    "salaryMin": 185000,
+    "salaryMax": 255000,
+    "currency": "USD",
+    "postedDate": "2026-06-30",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka"
+    ],
+    "description": "Join Adobe as a Growth Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Java and Spring Boot",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/adobe/24"
+  },
+  {
+    "id": "25",
+    "title": "Analytics Engineer",
+    "company": "Salesforce",
+    "companyLogo": "https://ui-avatars.com/api/?name=Salesforce&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "salaryMin": 80000,
+    "salaryMax": 160000,
+    "currency": "USD",
+    "postedDate": "2026-06-28",
+    "skills": [
+      "Swift",
+      "SwiftUI",
+      "iOS",
+      "Core Data"
+    ],
+    "description": "Join Salesforce as a Analytics Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Swift and SwiftUI",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/salesforce/25"
+  },
+  {
+    "id": "26",
+    "title": "iOS Engineer",
+    "company": "HubSpot",
+    "companyLogo": "https://ui-avatars.com/api/?name=HubSpot&background=random&color=fff&size=128&bold=true",
+    "location": "Cambridge, MA",
+    "type": "Part-time",
+    "salaryMin": 95000,
+    "salaryMax": 135000,
+    "currency": "USD",
+    "postedDate": "2026-06-26",
+    "skills": [
+      "Kotlin",
+      "Jetpack Compose",
+      "Android",
+      "Room"
+    ],
+    "description": "Join HubSpot as a iOS Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Kotlin and Jetpack Compose",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/hubspot/26"
+  },
+  {
+    "id": "27",
+    "title": "Android Engineer",
+    "company": "Zoom",
+    "companyLogo": "https://ui-avatars.com/api/?name=Zoom&background=random&color=fff&size=128&bold=true",
+    "location": "San Jose, CA",
+    "type": "Contract",
+    "salaryMin": 110000,
+    "salaryMax": 160000,
+    "currency": "USD",
+    "postedDate": "2026-06-24",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "description": "Join Zoom as a Android Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Figma and UI Design",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/zoom/27"
+  },
+  {
+    "id": "28",
+    "title": "Infrastructure Engineer",
+    "company": "Dropbox",
+    "companyLogo": "https://ui-avatars.com/api/?name=Dropbox&background=random&color=fff&size=128&bold=true",
+    "location": "Remote",
+    "type": "Remote",
+    "salaryMin": 125000,
+    "salaryMax": 185000,
+    "currency": "USD",
+    "postedDate": "2026-06-22",
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "ML",
+      "Python"
+    ],
+    "description": "Join Dropbox as a Infrastructure Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with TensorFlow and PyTorch",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/dropbox/28"
+  },
+  {
+    "id": "29",
+    "title": "Database Administrator",
+    "company": "Asana",
+    "companyLogo": "https://ui-avatars.com/api/?name=Asana&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Internship",
+    "salaryMin": 140000,
+    "salaryMax": 210000,
+    "currency": "USD",
+    "postedDate": "2026-06-20",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "GraphQL"
+    ],
+    "description": "Join Asana as a Database Administrator. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Node.js and Express",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/asana/29"
+  },
+  {
+    "id": "30",
+    "title": "Technical Writer",
+    "company": "Canva",
+    "companyLogo": "https://ui-avatars.com/api/?name=Canva&background=random&color=fff&size=128&bold=true",
+    "location": "Sydney, Australia",
+    "type": "Freelance",
+    "salaryMin": 155000,
+    "salaryMax": 235000,
+    "currency": "USD",
+    "postedDate": "2026-06-18",
+    "skills": [
+      "Rust",
+      "Systems Programming",
+      "WebAssembly",
+      "Performance"
+    ],
+    "description": "Join Canva as a Technical Writer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Rust and Systems Programming",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/canva/30"
+  },
+  {
+    "id": "31",
+    "title": "Senior Frontend Engineer",
+    "company": "Discord",
+    "companyLogo": "https://ui-avatars.com/api/?name=Discord&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "salaryMin": 170000,
+    "salaryMax": 210000,
+    "currency": "USD",
+    "postedDate": "2026-06-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "description": "Join Discord as a Senior Frontend Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with React and TypeScript",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/discord/31"
+  },
+  {
+    "id": "32",
+    "title": "Full Stack Developer",
+    "company": "Twitch",
+    "companyLogo": "https://ui-avatars.com/api/?name=Twitch&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Part-time",
+    "salaryMin": 185000,
+    "salaryMax": 235000,
+    "currency": "USD",
+    "postedDate": "2026-06-14",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "description": "Join Twitch as a Full Stack Developer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Python and Django",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/twitch/32"
+  },
+  {
+    "id": "33",
+    "title": "Backend Engineer",
+    "company": "Reddit",
+    "companyLogo": "https://ui-avatars.com/api/?name=Reddit&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Contract",
+    "salaryMin": 80000,
+    "salaryMax": 140000,
+    "currency": "USD",
+    "postedDate": "2026-06-12",
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "Docker",
+      "AWS"
+    ],
+    "description": "Join Reddit as a Backend Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Go and Kubernetes",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/reddit/33"
+  },
+  {
+    "id": "34",
+    "title": "DevOps Engineer",
+    "company": "Palantir",
+    "companyLogo": "https://ui-avatars.com/api/?name=Palantir&background=random&color=fff&size=128&bold=true",
+    "location": "Remote",
+    "type": "Remote",
+    "salaryMin": 95000,
+    "salaryMax": 165000,
+    "currency": "USD",
+    "postedDate": "2026-06-10",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka"
+    ],
+    "description": "Join Palantir as a DevOps Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Java and Spring Boot",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/palantir/34"
+  },
+  {
+    "id": "35",
+    "title": "Product Designer",
+    "company": "Snowflake",
+    "companyLogo": "https://ui-avatars.com/api/?name=Snowflake&background=random&color=fff&size=128&bold=true",
+    "location": "Bozeman, MT",
+    "type": "Internship",
+    "salaryMin": 110000,
+    "salaryMax": 190000,
+    "currency": "USD",
+    "postedDate": "2026-06-08",
+    "skills": [
+      "Swift",
+      "SwiftUI",
+      "iOS",
+      "Core Data"
+    ],
+    "description": "Join Snowflake as a Product Designer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Swift and SwiftUI",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/snowflake/35"
+  },
+  {
+    "id": "36",
+    "title": "UX Researcher",
+    "company": "Databricks",
+    "companyLogo": "https://ui-avatars.com/api/?name=Databricks&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Freelance",
+    "salaryMin": 125000,
+    "salaryMax": 165000,
+    "currency": "USD",
+    "postedDate": "2026-06-06",
+    "skills": [
+      "Kotlin",
+      "Jetpack Compose",
+      "Android",
+      "Room"
+    ],
+    "description": "Join Databricks as a UX Researcher. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Kotlin and Jetpack Compose",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/databricks/36"
+  },
+  {
+    "id": "37",
+    "title": "Data Scientist",
+    "company": "OpenAI",
+    "companyLogo": "https://ui-avatars.com/api/?name=OpenAI&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "salaryMin": 140000,
+    "salaryMax": 190000,
+    "currency": "USD",
+    "postedDate": "2026-06-04",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "description": "Join OpenAI as a Data Scientist. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Figma and UI Design",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/openai/37"
+  },
+  {
+    "id": "38",
+    "title": "Machine Learning Engineer",
+    "company": "Anthropic",
+    "companyLogo": "https://ui-avatars.com/api/?name=Anthropic&background=random&color=fff&size=128&bold=true",
+    "location": "San Francisco, CA",
+    "type": "Part-time",
+    "salaryMin": 155000,
+    "salaryMax": 215000,
+    "currency": "USD",
+    "postedDate": "2026-06-02",
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "ML",
+      "Python"
+    ],
+    "description": "Join Anthropic as a Machine Learning Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with TensorFlow and PyTorch",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/anthropic/38"
+  },
+  {
+    "id": "39",
+    "title": "Mobile Developer (iOS)",
+    "company": "Nvidia",
+    "companyLogo": "https://ui-avatars.com/api/?name=Nvidia&background=random&color=fff&size=128&bold=true",
+    "location": "Santa Clara, CA",
+    "type": "Contract",
+    "salaryMin": 170000,
+    "salaryMax": 240000,
+    "currency": "USD",
+    "postedDate": "2026-05-31",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "GraphQL"
+    ],
+    "description": "Join Nvidia as a Mobile Developer (iOS). You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Node.js and Express",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/nvidia/39"
+  },
+  {
+    "id": "40",
+    "title": "Mobile Developer (Android)",
+    "company": "Tesla",
+    "companyLogo": "https://ui-avatars.com/api/?name=Tesla&background=random&color=fff&size=128&bold=true",
+    "location": "Remote",
+    "type": "Remote",
+    "salaryMin": 185000,
+    "salaryMax": 265000,
+    "currency": "USD",
+    "postedDate": "2026-05-29",
+    "skills": [
+      "Rust",
+      "Systems Programming",
+      "WebAssembly",
+      "Performance"
+    ],
+    "description": "Join Tesla as a Mobile Developer (Android). You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with Rust and Systems Programming",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/tesla/40"
+  },
+  {
+    "id": "41",
+    "title": "QA Engineer",
+    "company": "SpaceX",
+    "companyLogo": "https://ui-avatars.com/api/?name=SpaceX&background=random&color=fff&size=128&bold=true",
+    "location": "Hawthorne, CA",
+    "type": "Internship",
+    "salaryMin": 80000,
+    "salaryMax": 120000,
+    "currency": "USD",
+    "postedDate": "2026-05-27",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "description": "Join SpaceX as a QA Engineer. You will work on cutting-edge products used by millions worldwide. We value innovation, collaboration, and continuous learning in a fast-paced environment.",
+    "requirements": [
+      "3+ years of relevant experience",
+      "Strong problem-solving and communication skills",
+      "Experience with React and TypeScript",
+      "Bachelor degree in CS or equivalent experience"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work options",
+      "Learning budget"
+    ],
+    "applyUrl": "https://careers.example.com/spacex/41"
+  }
+]
